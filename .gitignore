@@ -1,0 +1,18 @@
+# Environnements virtuels
+.venv/
+venv/
+.env
+.venv311
+
+# Fichiers système
+__pycache__/
+*.pyc
+
+# Fichiers à ignorer
+*.log
+*.zip
+*.db
+*.mp4
+*.avi
+*.mov
+*.exe

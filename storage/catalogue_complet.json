@@ -1,0 +1,237 @@
+[
+  {
+    "catalogue": "semences",
+    "liens_sites": [
+      "https://www.jumia.ma/plantes-graines-bulbes-legumes/?page=2#catalog-listing",
+      "https://www.marjanemall.ma/boutique-officielle/semillas?srsltid=AfmBOopyRtCFEs15cDSYHbM365sS5GsyExyKLWKrx67l2Ak0dP7S8Oko",
+      "https://atlaseeds.com/"
+    ],
+    "produits": [
+      {
+        "nom": "Graines de fraise",
+        "description": "Graines adaptées à la culture en sol ou en bac, produisant des fraises sucrées et juteuses. Variétés remontantes ou non remontantes selon usage.",
+        "image": "http://localhost:8000/storage/produits/grains_fraise.jpg"
+      },
+      {
+        "nom": "Graines de Melon",
+        "description": "Variétés sélectionnées pour des melons à chair sucrée, tolérants aux maladies courantes. Adaptées aux climats chauds.",
+        "image": "http://localhost:8000/storage/produits/graine_Melon.jpg"
+      },
+      {
+        "nom": "Graines d’Oignon",
+        "description": "Graine pour oignons blancs, rouges ou jaunes. Bonne germination, destinées à une récolte en sec ou en vert.",
+        "image": "http://localhost:8000/storage/produits/graine_oignon.jpg"
+      },
+      {
+        "nom": "Graines de poivron nora",
+        "description": "Graine de poivron doux, type espagnol, utilisée souvent pour séchage et paprika. Croissance lente, besoin de chaleur.",
+        "image": "http://localhost:8000/storage/produits/graine_poivron.jpg"
+      },
+      {
+        "nom": "Graines de blé",
+        "description": "Variétés rustiques pour blé tendre ou dur. Adaptées aux conditions marocaines. Utilisées pour la culture à grande échelle.",
+        "image": "http://localhost:8000/storage/produits/graines_blé.jpg"
+      },
+      {
+        "nom": "Graines de Carotte",
+        "description": "Graines pour carottes longues ou rondes, selon les variétés. Excellente germination en sol bien drainé.",
+        "image": "http://localhost:8000/storage/produits/graine_carotte.jpg"
+      },
+      {
+        "nom": "Graines de tomates",
+        "description": "Variétés de tomate pour culture en plein champ ou serre. Résistance aux maladies fréquentes (mildiou, verticilliose).",
+        "image": "http://localhost:8000/storage/produits/graine_tomate.jpg"
+      },
+      {
+        "nom": "Graines de Raisin",
+        "description": "Graines rares, issues souvent de variétés anciennes. La culture est longue car le raisin pousse généralement par bouturage.",
+        "image": "http://localhost:8000/storage/produits/graine_raisin.jpg"
+      },
+      {
+        "nom": "Graines de maïs",
+        "description": "Graine hybride ou locale pour production de maïs fourrager ou maïs doux. Cycle moyen ou long selon variété.",
+        "image": "http://localhost:8000/storage/produits/graine_maïs.jpg"
+      },
+      {
+        "nom": "Graines de pomme de terre",
+        "description": "En réalité, ce sont des tubercules ou des plants. Pour culture en plein champ, à planter au printemps ou en automne.",
+        "image": "http://localhost:8000/storage/produits/graine_potato.jpg"
+      }
+    ]
+  },
+  {
+    "catalogue": "irrigation",
+    "liens_sites": [
+      "https://briconet.ma/product-category/agriculture-et-jardin",
+      "https://bricoland.ma/jardinage.html?cat=121",
+      "https://www.jumia.ma/catalog/?q=Irrigation"
+    ],
+    "produits": [
+      {
+        "nom": "Tuyau polyéthylène",
+        "description": "Tuyau flexible et résistant utilisé pour transporter l’eau dans les systèmes d’irrigation. Disponible en différents diamètres.",
+        "image": "http://localhost:8000/storage/produits/Tuyau.jpg"
+      },
+      {
+        "nom": "Gotteur",
+        "description": "Dispositif qui libère l’eau lentement à la base de chaque plante. Permet une irrigation localisée et économe.",
+        "image": "http://localhost:8000/storage/produits/Gotteur.jpg"
+      },
+      {
+        "nom": "Asperseur",
+        "description": "Arroseur qui projette l’eau en jet circulaire ou en éventail, idéal pour grandes surfaces ou potagers.",
+        "image": "http://localhost:8000/storage/produits/Asperseur.jpg"
+      },
+      {
+        "nom": "Vanne d’arrêt",
+        "description": "Composant permettant de contrôler ou bloquer le passage de l’eau dans un réseau d’irrigation.",
+        "image": "http://localhost:8000/storage/produits/Vanne.jpg"
+      },
+      {
+        "nom": "Pompe de surface",
+        "description": "Pompe placée hors de l’eau, utilisée pour puiser l’eau depuis un puits ou un réservoir et la distribuer dans le réseau.",
+        "image": "http://localhost:8000/storage/produits/Pompe.jpg"
+      },
+      {
+        "nom": "Raccord rapide",
+        "description": "Accessoire en forme de T permettant de connecter rapidement trois tuyaux ensemble dans un système d’irrigation.",
+        "image": "http://localhost:8000/storage/produits/Racord.jpg"
+      },
+      {
+        "nom": "Kit d’irrigation goutte-à-goutte",
+        "description": "Ensemble complet contenant tuyaux, goutteurs, raccords, idéal pour démarrer un système d’irrigation domestique ou maraîcher.",
+        "image": "http://localhost:8000/storage/produits/kit.jpg"
+      }
+    ]
+  },
+  {
+    "catalogue": "machines_agricoles",
+    "liens_sites": [
+      "https://briconet.ma/product-category/outils-motorises",
+      "https://outilmarket.ma/jardinage-115",
+      "https://dimateq.com/"
+    ],
+    "produits": [
+      {
+        "nom": "Motoculteur",
+        "description": "Machine motorisée permettant de retourner et travailler la terre avant la plantation. Idéal pour petites et moyennes surfaces.",
+        "image": "http://localhost:8000/storage/produits/motobineuse.jpg"
+      },
+      {
+        "nom": "Pulvérisateur",
+        "description": "Appareil de pulvérisation autonome avec moteur à essence. Utilisé pour les traitements phytosanitaires à grande portée.",
+        "image": "http://localhost:8000/storage/produits/Pulvérisateur.jpg"
+      },
+      {
+        "nom": "Semoir",
+        "description": "Outil permettant de déposer les graines de manière régulière dans le sol. Modèles manuels ou tractés disponibles.",
+        "image": "http://localhost:8000/storage/produits/semoir.jpg"
+      },
+      {
+        "nom": "Faux à broussailles",
+        "description": "Outil manuel avec lame courbe, utilisé pour couper les hautes herbes, broussailles ou cultures sèches.",
+        "image": "http://localhost:8000/storage/produits/FauxB.jpg"
+      },
+      {
+        "nom": "Extracteur d'huile",
+        "description": "Machine servant à presser des graines (olive, argan, tournesol…) pour en extraire l’huile de manière mécanique.",
+        "image": "http://localhost:8000/storage/produits/Extracteur.jpg"
+      },
+      {
+        "nom": "Tracteur agricole",
+        "description": "Véhicule motorisé utilisé pour tirer des équipements agricoles.",
+        "image": "http://localhost:8000/storage/produits/Tracteur.jpg"
+      },
+      {
+        "nom": "Machine à semis multifonction",
+        "description": "Machine qui regroupe plusieurs fonctions : ouverture de sillons, semis et recouvrement. Optimise le temps et la précision.",
+        "image": "http://localhost:8000/storage/produits/SemoirEN.jpg"
+      },
+      {
+        "nom": "Machine batteuse de maïs",
+        "description": "Appareil qui sépare les grains de maïs de leurs épis. Utilisé après récolte pour gagner du temps et améliorer le rendement.",
+        "image": "http://localhost:8000/storage/produits/Mais.jpg"
+      },
+      {
+        "nom": "Débroussailleuse robeli",
+        "description": "Débroussailleuse thermique pour coupe des herbes et broussailles. Le mot “Robeli” peut être une marque, attention à son usage.",
+        "image": "http://localhost:8000/storage/produits/Débroussailleuse.jpg"
+      },
+      {
+        "nom": "Moissonneuse-batteuse",
+        "description": "Machine complexe qui coupe, bat et trie les grains en une seule opération. Utilisée pour les grandes cultures (blé, orge…).",
+        "image": "http://localhost:8000/storage/produits/Moissonneuse.jpg"
+      },
+      {
+        "nom": "Faneuse",
+        "description": "Outil attelé qui retourne le foin pour faciliter son séchage uniforme avant le pressage ou l’enrubannage.",
+        "image": "http://localhost:8000/storage/produits/Faneuse.jpg"
+      }
+    ]
+  },
+  {
+    "catalogue": "produits_phytosanitaires",
+    "liens_sites": [
+      "https://www.philea.ma/",
+      "https://phytoloukkos.com/products",
+      "https://www.amaroc-agro.com/#"
+    ],
+    "produits": [
+      {
+        "nom": "BOTCIDE",
+        "description": "Matière Active : Trifloxystrobine . Tableau toxicologique : C . Catégorie : Fongicide . Utilisé pour : pommier, Tomate, Fraisier",
+        "image": "http://localhost:8000/storage/produits/Produit1.png"
+      },
+      {
+        "nom": "FLINT 50 WG",
+        "description": "Matière Active : Trifloxystrobine. Tableau toxicologique : C. Catégorie : Fongicide. Utilisé pour : pommier, Vigne, Tomate, Poivron, Mûrier, Menthe, Melon, Fraisier",
+        "image": "http://localhost:8000/storage/produits/Produit2.png"
+      },
+      {
+        "nom": "CAPTAX",
+        "description": "Matière Active : Captane. Tableau toxicologique : C. Catégorie : Fongicide. Utilisé pour : pommier",
+        "image": "http://localhost:8000/storage/produits/Produit3.png"
+      },
+      {
+        "nom": "CAPTANE 50 WP",
+        "description": "Matière Active : Captane. Tableau toxicologique : C. Catégorie : Fongicide. Utilisé pour : Pêcher, pommier , Pomme de terre, Tomate , Vigne",
+        "image": "http://localhost:8000/storage/produits/Produit4.png"
+      },
+      {
+        "nom": "DELAN 500 SC",
+        "description": "Matière Active : Dithianon. Tableau toxicologique : C. Catégorie : Fongicide. Utilisé pour : pommier ",
+        "image": "http://localhost:8000/storage/produits/Produit5.png"
+      },
+      {
+        "nom": "KING 250 EW",
+        "description": "Matière Active : Tébuconazole. Tableau toxicologique : C. Catégorie : Fongicide. Utilisé pour : Blés, Haricot vert, Tomate, Vigne",
+        "image": "http://localhost:8000/storage/produits/Produit6.png"
+      },
+      {
+        "nom": "PRIORI TOP",
+        "description": "Matière Active : Azoxystrobine, Difénoconazole. Tableau toxicologique : C. Catégorie : Fongicide. Utilisé pour : Carotte, Chou de Bruxelles, Courgette, Fraisier, Framboisier, Melon, Oignon, Poivron, Tomate, Vigne",
+        "image": "http://localhost:8000/storage/produits/Produit7.png"
+      },
+      {
+        "nom": "ALIETTE FLASH",
+        "description": "Matière Active : Fosétyl-Aluminium. Tableau toxicologique : C. Catégorie : Fongicide. Utilisé pour : Agrumes, Poirier, Pomme de terre, Pommier ",
+        "image": "http://localhost:8000/storage/produits/Produit8.png"
+      },
+      {
+        "nom": "CYMBAL 45 WG",
+        "description": "Matière Active : Cymoxanil. Tableau toxicologique : C. Catégorie : Fongicide. Utilisé pour : Melon, Pomme de terre, Tomate, Vigne",
+        "image": "http://localhost:8000/storage/produits/Produit9.jpg"
+      },
+      {
+        "nom": "BORDEAUX CAFFARO",
+        "description": "Matière Active : Cuivre sulfate de cuivre. Tableau toxicologique : C. Catégorie : Fongicide. Utilisé pour : Agrumes, Arbres fruitiers, Olivier, Pomme de terre, Tomate, Vigne",
+        "image": "http://localhost:8000/storage/produits/Produit10.png"
+      },
+      {
+        "nom": "PERGADO C",
+        "description": "Matière Active : Cuivre oxychlorure de cuivre, Mandipropamide. Tableau toxicologique : C. Catégorie : Fongicide. Utilisé pour : Pomme de terre, Tomate",
+        "image": "http://localhost:8000/storage/produits/Produit11.png"
+      }
+    ]
+  }
+]

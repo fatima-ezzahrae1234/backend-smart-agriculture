@@ -1,0 +1,3866 @@
+[
+    {
+        "Culture": "Maïs",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 45.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 65.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 42.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 35.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 38.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 52.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 36.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 40.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 56.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 40.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 32.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 36.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 50.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 38.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 42.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 54.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 40.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 31.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 46.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 61.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 44.0
+    },
+    {
+        "Culture": "Maïs",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 35.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 24.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 32.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 26.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 20.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 22.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 30.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 25.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 18.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 21.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 29.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 24.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 17.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 20.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 28.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 23.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 16.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 23.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 30.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 25.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 19.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 26.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 33.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 28.0
+    },
+    {
+        "Culture": "Vigne",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 21.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 35.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 50.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 38.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 32.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 32.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 46.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 35.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 29.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 34.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 48.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 36.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 33.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 47.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 35.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 29.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 35.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 49.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 37.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 40.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 54.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 41.0
+    },
+    {
+        "Culture": "Pêches",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 34.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 32.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 48.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 35.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 28.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 44.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 33.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 26.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 31.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 45.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 34.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 27.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 29.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 43.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 32.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 26.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 32.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 46.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 34.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 28.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 35.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 50.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 37.0
+    },
+    {
+        "Culture": "Courge",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.0
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 48.0
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 62.4
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 43.2
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 33.6
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 40.0
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 52.0
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 36.0
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 28.0
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 36.0
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 46.8
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 32.4
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 25.2
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 34.0
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 44.2
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.6
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 23.8
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 44.0
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 57.2
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 39.6
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.8
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 46.0
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 59.8
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 41.4
+    },
+    {
+        "Culture": "Blé",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 32.2
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.0
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 39.0
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 27.0
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 21.0
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 25.0
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 32.5
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 22.5
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 17.5
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 22.5
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 29.3
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 20.2
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 15.7
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 21.2
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 27.6
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 19.1
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 14.9
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 27.5
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 35.8
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 24.8
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 19.3
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 28.8
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 37.4
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 25.9
+    },
+    {
+        "Culture": "Orge",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 20.1
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 33.6
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 43.7
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.2
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 23.5
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 28.0
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 36.4
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 25.2
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 19.6
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 25.2
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 32.8
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 22.7
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 17.6
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 23.8
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 30.9
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 21.4
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 16.7
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.8
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 40.0
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 27.7
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 21.6
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 32.2
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 41.9
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 29.0
+    },
+    {
+        "Culture": "Lentilles",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 22.5
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.0
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 39.0
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 27.0
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 21.0
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 25.0
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 32.5
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 22.5
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 17.5
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 22.5
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 29.3
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 20.2
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 15.7
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 21.2
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 27.6
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 19.1
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 14.9
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 27.5
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 35.8
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 24.8
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 19.3
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 28.8
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 37.4
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 25.9
+    },
+    {
+        "Culture": "Pois chiches",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 20.1
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 36.0
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 46.8
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 32.4
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 25.2
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.0
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 39.0
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 27.0
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 21.0
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 27.0
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 35.1
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 24.3
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 18.9
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 25.5
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 33.2
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 22.9
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 17.8
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 33.0
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 7,
+        "Besoin quotidien (m³/ha/jour)": 42.9
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 29.7
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 23.1
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 34.5
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 44.9
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 31.0
+    },
+    {
+        "Culture": "Olivier",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 24.1
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 72.0
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 93.6
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 64.8
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 50.4
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 60.0
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 78.0
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 54.0
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 42.0
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 54.0
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 70.2
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 48.6
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 37.8
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 51.0
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 66.3
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 45.9
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 35.7
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 66.0
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 85.8
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 59.4
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 46.2
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 69.0
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 89.7
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 62.1
+    },
+    {
+        "Culture": "Agrumes",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 48.3
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 54.0
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 70.2
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 48.6
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 37.8
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 45.0
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 58.5
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 40.5
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 31.5
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 40.5
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 52.7
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 36.5
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 28.3
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 38.2
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 49.7
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 34.4
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 26.8
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 49.5
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 64.4
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 44.6
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 34.7
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 51.7
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 67.3
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 46.6
+    },
+    {
+        "Culture": "Grenade",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 36.2
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 42.0
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 54.6
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 37.8
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 29.4
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 35.0
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 45.5
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 31.5
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 24.5
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 31.5
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 40.9
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 28.3
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 22.0
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 29.8
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 38.7
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 26.8
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 20.8
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 38.5
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 50.0
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 34.7
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 26.9
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 40.2
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 52.3
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 36.2
+    },
+    {
+        "Culture": "Amande",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 28.2
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 24.0
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 31.2
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 21.6
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 16.8
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 20.0
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 26.0
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 18.0
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 14.0
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 18.0
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 23.4
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 16.2
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 12.6
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 17.0
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 22.1
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 15.3
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 11.9
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 22.0
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 28.6
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 19.8
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 15.4
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 23.0
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 29.9
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 20.7
+    },
+    {
+        "Culture": "Caroubier",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 16.1
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 60.0
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 78.0
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 54.0
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 42.0
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 50.0
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 65.0
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 45.0
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 35.0
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 45.0
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 58.5
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 40.5
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 31.5
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 42.5
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 55.2
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 38.2
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 29.8
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 55.0
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 71.5
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 49.5
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 38.5
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 57.5
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 74.7
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 51.7
+    },
+    {
+        "Culture": "Pastèque",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 40.2
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 60.0
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 78.0
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 54.0
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 42.0
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 50.0
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 65.0
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 45.0
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 35.0
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 45.0
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 58.5
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 40.5
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 31.5
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 42.5
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 55.2
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 38.2
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 29.8
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 55.0
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 71.5
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 49.5
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 38.5
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 57.5
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 74.7
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 51.7
+    },
+    {
+        "Culture": "Melon",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 40.2
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 72.0
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 93.6
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 64.8
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 50.4
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 60.0
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 78.0
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 54.0
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 42.0
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 54.0
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 70.2
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 48.6
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 37.8
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 51.0
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 66.3
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 45.9
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 35.7
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 66.0
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 85.8
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 59.4
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 46.2
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 69.0
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 89.7
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 62.1
+    },
+    {
+        "Culture": "Pomme de terre",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 48.3
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 66.0
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 85.8
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 59.4
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 46.2
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 55.0
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 71.5
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 49.5
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 38.5
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 49.5
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 64.4
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 44.6
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 34.6
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 46.7
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 60.8
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 42.1
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 32.7
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 60.5
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 78.7
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 54.5
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 42.4
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 63.2
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 82.2
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 56.9
+    },
+    {
+        "Culture": "Oignon",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 44.3
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 54.0
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 70.2
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 48.6
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 37.8
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 45.0
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 58.5
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 40.5
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 31.5
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 40.5
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 52.7
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 36.5
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 28.3
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 38.2
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 49.7
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 34.4
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 26.8
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 49.5
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 64.4
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 44.6
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 34.7
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 51.7
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 67.3
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 46.6
+    },
+    {
+        "Culture": "Carotte",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 36.2
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 72.0
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 93.6
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 64.8
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 50.4
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 60.0
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 78.0
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 54.0
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 42.0
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 54.0
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 70.2
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 48.6
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 37.8
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 51.0
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 66.3
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 45.9
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 35.7
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 66.0
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 85.8
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 59.4
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 46.2
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 69.0
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 89.7
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 62.1
+    },
+    {
+        "Culture": "Tomate",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 48.3
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 36.0
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 46.8
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 32.4
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 25.2
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.0
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 39.0
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 27.0
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 21.0
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 27.0
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 35.1
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 24.3
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 18.9
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 25.5
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 33.2
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 22.9
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 17.8
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 33.0
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 42.9
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 29.7
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 23.1
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 34.5
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 44.9
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 31.0
+    },
+    {
+        "Culture": "Sésame",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 24.1
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 48.0
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 62.4
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 43.2
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 33.6
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 40.0
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 52.0
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 36.0
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 28.0
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 36.0
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 46.8
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 32.4
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 25.2
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 34.0
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 44.2
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.6
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 23.8
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 44.0
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 57.2
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 39.6
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 30.8
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 46.0
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 59.8
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 41.4
+    },
+    {
+        "Culture": "Piment (Niora)",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 2,
+        "Besoin quotidien (m³/ha/jour)": 32.2
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 84.0
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 109.2
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 75.6
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 58.8
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 70.0
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 91.0
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 63.0
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 49.0
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 63.0
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 81.9
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 56.7
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 44.1
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 59.5
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 77.3
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 53.5
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 41.6
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 77.0
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 6,
+        "Besoin quotidien (m³/ha/jour)": 100.1
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 69.3
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 53.9
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 80.5
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 104.6
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 72.4
+    },
+    {
+        "Culture": "Betterave sucrière",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 56.3
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "sableux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 108.0
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "sableux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 140.4
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "sableux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 97.2
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "sableux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 75.6
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "argileux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 90.0
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "argileux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 117.0
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "argileux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 81.0
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "argileux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 63.0
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "limoneux",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 81.0
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "limoneux",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 105.3
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "limoneux",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 72.9
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "limoneux",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 56.7
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "humifère",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 76.5
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "humifère",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 99.5
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "humifère",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 68.8
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "humifère",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 3,
+        "Besoin quotidien (m³/ha/jour)": 53.5
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "calcaire",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 99.0
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "calcaire",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 128.7
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "calcaire",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 89.1
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "calcaire",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 69.3
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "salin",
+        "Saison": "printemps",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 103.5
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "salin",
+        "Saison": "été",
+        "Fréquence d'irrigation (par semaine)": 5,
+        "Besoin quotidien (m³/ha/jour)": 134.6
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "salin",
+        "Saison": "automne",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 93.1
+    },
+    {
+        "Culture": "Canne à sucre",
+        "Type de sol": "salin",
+        "Saison": "hiver",
+        "Fréquence d'irrigation (par semaine)": 4,
+        "Besoin quotidien (m³/ha/jour)": 72.4
+    }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "Plant": "Apple ",
+    "Disease": "Apple scab",
+    "matiéres actives": "trifloxystrobine",
+    "DAR": 14,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "germination levée"
+  },
+  {
+    "Plant": "Apple ",
+    "Disease": "Apple scab",
+    "matiéres actives": "captane",
+    "DAR": 7,
+    "Gravité ciblée": "Faible à modérée",
+    "Stade recommandé": "germination levée"
+  },
+  {
+    "Plant": "Apple ",
+    "Disease": "Apple scab",
+    "matiéres actives": "dithianon",
+    "DAR": 21,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "germination levée"
+  },
+  {
+    "Plant": "Apple ",
+    "Disease": "Apple scab",
+    "matiéres actives": "thirame",
+    "DAR": 14,
+    "Gravité ciblée": "Faible",
+    "Stade recommandé": "germination levée"
+  },
+  {
+    "Plant": "Apple ",
+    "Disease": "Apple scab",
+    "matiéres actives": "cuivre hydroxyde",
+    "DAR": 15,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Apple ",
+    "Disease": "Apple scab",
+    "matiéres actives": "difénoconazole",
+    "DAR": 14,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Croissance active"
+  },
+  {
+    "Plant": "Apple",
+    "Disease": "Black rot",
+    "matiéres actives": "captane",
+    "DAR": 7,
+    "Gravité ciblée": "Faible à modérée",
+    "Stade recommandé": "germination levée"
+  },
+  {
+    "Plant": "Apple",
+    "Disease": "Black rot",
+    "matiéres actives": "thiophanate-méthyl",
+    "DAR": 14,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Jeune plant"
+  },
+  {
+    "Plant": "Apple",
+    "Disease": "Black rot",
+    "matiéres actives": "boscalid + pyraclostrobin",
+    "DAR": 21,
+    "Gravité ciblée": "forte",
+    "Stade recommandé": "Fructification"
+  },
+  {
+    "Plant": "Apple",
+    "Disease": "Cedar apple rust",
+    "matiéres actives": "Tébuconazole",
+    "DAR": "14 à 28",
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Floraison"
+  },
+  {
+    "Plant": "Apple",
+    "Disease": "Cedar apple rust",
+    "matiéres actives": "myclobutanil",
+    "DAR": 14,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Croissance végétative"
+  },
+  {
+    "Plant": "Apple",
+    "Disease": "Cedar apple rust",
+    "matiéres actives": "trifloxystrobine",
+    "DAR": 15,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "germination levée"
+  },
+  {
+    "Plant": "Cherry",
+    "Disease": "Powdery mildew",
+    "matiéres actives": "penconazole",
+    "DAR": 14,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Pré-floraison"
+  },
+  {
+    "Plant": "Cherry",
+    "Disease": "Powdery mildew",
+    "matiéres actives": "soufre",
+    "DAR": 0,
+    "Gravité ciblée": "Faible à modérée",
+    "Stade recommandé": "levée à maturation"
+  },
+  {
+    "Plant": "Corn",
+    "Disease": "Cercospora leaf spot /Gray leaf spot",
+    "matiéres actives": "Azoxystrobine",
+    "DAR": 35,
+    "Gravité ciblée": "Forte",
+    "Stade recommandé": "Floraison"
+  },
+  {
+    "Plant": "Corn",
+    "Disease": "Cercospora leaf spot /Gray leaf spot",
+    "matiéres actives": "propiconazole",
+    "DAR": 14,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Milieu du cycle de plant"
+  },
+  {
+    "Plant": "Corn",
+    "Disease": "Cercospora leaf spot /Gray leaf spot",
+    "matiéres actives": "Tébuconazole",
+    "DAR": 14,
+    "Gravité ciblée": "forte",
+    "Stade recommandé": "Floraison"
+  },
+  {
+    "Plant": "Corn",
+    "Disease": "Common rust",
+    "matiéres actives": "Tébuconazole",
+    "DAR": 35,
+    "Gravité ciblée": "forte",
+    "Stade recommandé": "Préfloraison "
+  },
+  {
+    "Plant": "Corn",
+    "Disease": "Common rust",
+    "matiéres actives": "Azoxystrobine",
+    "DAR": 30,
+    "Gravité ciblée": "forte",
+    "Stade recommandé": "Floraison"
+  },
+  {
+    "Plant": "Corn",
+    "Disease": "Northern Leaf Blight",
+    "matiéres actives": "Azoxystrobine",
+    "DAR": 35,
+    "Gravité ciblée": "forte",
+    "Stade recommandé": "Floraison"
+  },
+  {
+    "Plant": "Corn",
+    "Disease": "Northern Leaf Blight",
+    "matiéres actives": "Tébuconazole",
+    "DAR": "14 à 28",
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Préfloraison "
+  },
+  {
+    "Plant": "Corn",
+    "Disease": "Northern Leaf Blight",
+    "matiéres actives": "propiconazole",
+    "DAR": 14,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Milieu du cycle de plant"
+  },
+  {
+    "Plant": "Grape",
+    "Disease": "Black rot",
+    "matiéres actives": "Trifloxystrobine",
+    "DAR": 21,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Préfloraison"
+  },
+  {
+    "Plant": "Grape",
+    "Disease": "Black rot",
+    "matiéres actives": "Tébuconazole",
+    "DAR": 35,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Avant véraison"
+  },
+  {
+    "Plant": "Grape",
+    "Disease": "Esca (Black Measles)",
+    "matiéres actives": "Trichoderma spp",
+    "DAR": 0,
+    "Gravité ciblée": "forte",
+    "Stade recommandé": "Développement"
+  },
+  {
+    "Plant": "Grape",
+    "Disease": "Esca (Black Measles)",
+    "matiéres actives": "thiophanate-méthyl",
+    "DAR": 14,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Jeune plant"
+  },
+  {
+    "Plant": "Grape",
+    "Disease": "Esca (Black Measles)",
+    "matiéres actives": "fosétyl-aluminium",
+    "DAR": 21,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Développement"
+  },
+  {
+    "Plant": "Grape",
+    "Disease": "Leaf blight (Isariopsis Leaf Spot)",
+    "matiéres actives": "cuivre oxychlorure",
+    "DAR": 21,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Orange",
+    "Disease": "Huanglongbing (Citrus greening)",
+    "matiéres actives": "Imidaclopride",
+    "DAR": 21,
+    "Gravité ciblée": "forte",
+    "Stade recommandé": "jeune plant"
+  },
+  {
+    "Plant": "Orange",
+    "Disease": "Huanglongbing (Citrus greening)",
+    "matiéres actives": "Spirotetramat",
+    "DAR": "14 à 21",
+    "Gravité ciblée": "forte",
+    "Stade recommandé": "Jeune plant"
+  },
+  {
+    "Plant": "Orange",
+    "Disease": "Huanglongbing (Citrus greening)",
+    "matiéres actives": "thiaméthoxame",
+    "DAR": 28,
+    "Gravité ciblée": "forte",
+    "Stade recommandé": "Développement"
+  },
+  {
+    "Plant": "Peach",
+    "Disease": "Bacterial spot",
+    "matiéres actives": "cuivre hydroxyde",
+    "DAR": 21,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Pepper,bell",
+    "Disease": "Bacterial spot",
+    "matiéres actives": "cuivre oxychlorure",
+    "DAR": 21,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Potato",
+    "Disease": "Early blight",
+    "matiéres actives": "cuivre oxychlorure",
+    "DAR": 15,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Développement"
+  },
+  {
+    "Plant": "Potato",
+    "Disease": "Early blight",
+    "matiéres actives": "difénoconazole",
+    "DAR": 30,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Potato",
+    "Disease": "Early blight",
+    "matiéres actives": "sulfate tétracuivrique tricalcique",
+    "DAR": 21,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Floraison"
+  },
+  {
+    "Plant": "Potato",
+    "Disease": "Early blight",
+    "matiéres actives": "fluopyrame",
+    "DAR": "7 à 14",
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Potato",
+    "Disease": "Early blight",
+    "matiéres actives": "Prothioconazole",
+    "DAR": 14,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Floraison"
+  },
+  {
+    "Plant": "Potato",
+    "Disease": "Late blight",
+    "matiéres actives": "cuivre oxychlorure",
+    "DAR": 15,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Développement "
+  },
+  {
+    "Plant": "Potato",
+    "Disease": "Late blight",
+    "matiéres actives": "cuivre hydroxyde",
+    "DAR": 30,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Potato",
+    "Disease": "Late blight",
+    "matiéres actives": "metalaxyl",
+    "DAR": 21,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Potato",
+    "Disease": "Late blight",
+    "matiéres actives": "cymoxanil",
+    "DAR": 14,
+    "Gravité ciblée": "forte",
+    "Stade recommandé": "Développement"
+  },
+  {
+    "Plant": "Potato",
+    "Disease": "Late blight",
+    "matiéres actives": "Azoxystrobine",
+    "DAR": 30,
+    "Gravité ciblée": "forte",
+    "Stade recommandé": "Végétation"
+  },
+  {
+    "Plant": "Squash",
+    "Disease": "Powdery mildew ",
+    "matiéres actives": "soufre",
+    "DAR": 0,
+    "Gravité ciblée": "Faible à modérée",
+    "Stade recommandé": "Développement"
+  },
+  {
+    "Plant": "Squash",
+    "Disease": "Powdery mildew ",
+    "matiéres actives": "bupirimate",
+    "DAR": 7,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Squash",
+    "Disease": "Powdery mildew ",
+    "matiéres actives": "difénoconazole",
+    "DAR": 14,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Développement"
+  },
+  {
+    "Plant": "Squash",
+    "Disease": "Powdery mildew ",
+    "matiéres actives": "Azoxystrobine",
+    "DAR": 3,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Squash",
+    "Disease": "Powdery mildew ",
+    "matiéres actives": "Boscalid",
+    "DAR": "7 à 14",
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Début à mi-saison"
+  },
+  {
+    "Plant": "Strawberry",
+    "Disease": "Leaf scorch",
+    "matiéres actives": "cuivre oxychlorure",
+    "DAR": 21,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Début à mi-saison"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Bacterial spot",
+    "matiéres actives": "cuivre hydroxyde",
+    "DAR": 15,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Bacterial spot",
+    "matiéres actives": "sulfate tétracuivrique tricalcique",
+    "DAR": 21,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Début à mi-saison"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Bacterial spot",
+    "matiéres actives": "cuivre - sulfate de cuivre",
+    "DAR": "7 à 14",
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Développement"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Early blight",
+    "matiéres actives": "difénoconazole",
+    "DAR": 3,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Développement"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Early blight",
+    "matiéres actives": "cuivre hydroxyde",
+    "DAR": 21,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Début à mi-saison"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Early blight",
+    "matiéres actives": "Azoxystrobine",
+    "DAR": 7,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Early blight",
+    "matiéres actives": "tétraconazole",
+    "DAR": "7 à 14",
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Début à mi-saison"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Late blight",
+    "matiéres actives": "cuivre hydroxyde",
+    "DAR": 21,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Late blight",
+    "matiéres actives": "metalaxyl",
+    "DAR": 14,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Début à floraison"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Late blight",
+    "matiéres actives": "cymoxanil",
+    "DAR": 7,
+    "Gravité ciblée": "forte",
+    "Stade recommandé": "Développement"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Late blight",
+    "matiéres actives": "Mandipropamide",
+    "DAR": "3 à 7",
+    "Gravité ciblée": "forte",
+    "Stade recommandé": "Végétation"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Late blight",
+    "matiéres actives": "Folpel",
+    "DAR": "7 à 14",
+    "Gravité ciblée": "forte",
+    "Stade recommandé": "Végétation"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Leaf Mold",
+    "matiéres actives": "difénoconazole",
+    "DAR": 14,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Leaf Mold",
+    "matiéres actives": "azoxystrobine",
+    "DAR": "7 à 14",
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Début de croissance"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Leaf Mold",
+    "matiéres actives": "Boscalid",
+    "DAR": 7,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Végétation"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Leaf Mold",
+    "matiéres actives": "Trifloxystrobine",
+    "DAR": 7,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Début à floraison"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Leaf Mold",
+    "matiéres actives": "pyraclostrobine",
+    "DAR": 14,
+    "Gravité ciblée": "Modérée",
+    "Stade recommandé": "Développement"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Septoria leaf spot",
+    "matiéres actives": "chlorothalonil",
+    "DAR": 7,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Début à floraison"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Septoria leaf spot",
+    "matiéres actives": "azoxystrobine",
+    "DAR": "7 à 14",
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "stade de croissance du feuillage"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Spider mites (Two-spotted spider mite)",
+    "matiéres actives": "hexythiazox",
+    "DAR": 7,
+    "Gravité ciblée": "Faible",
+    "Stade recommandé": "Jeune feuillage"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Spider mites (Two-spotted spider mite)",
+    "matiéres actives": "Milbémectine",
+    "DAR": 7,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Début à floraison"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Spider mites (Two-spotted spider mite)",
+    "matiéres actives": "Paraffine",
+    "DAR": "0 à 3 ",
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Jeune feuillage"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Target Spot ",
+    "matiéres actives": "Fénazaquin",
+    "DAR": 7,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Développement à Floraison"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Target Spot ",
+    "matiéres actives": "difénoconazole",
+    "DAR": 14,
+    "Gravité ciblée": "Modérée à forte",
+    "Stade recommandé": "Développement"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Tomato Yellow Leaf Curl Virus ",
+    "matiéres actives": "il n'y a pas de traitement direct contre ce virus, seule la prévention et les mesures d'hygiène sont efficaces ",
+    "DAR": 0,
+    "Gravité ciblée": "tous",
+    "Stade recommandé": "tous"
+  },
+  {
+    "Plant": "Tomato",
+    "Disease": "Tomato mosaic virus ",
+    "matiéres actives": "il n'y a pas de traitement direct contre ce virus, seule la prévention et les mesures d'hygiène sont efficaces ",
+    "DAR": 0,
+    "Gravité ciblée": "tous",
+    "Stade recommandé":"tous"
+  }
+]
